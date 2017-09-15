@@ -1,4 +1,4 @@
-"Message-ID: <(\w|[.@])*>\nDate: (\w)*, [0-9]* (\w)* [0-9]* (((00|01|02):[0-9]*:[0-9]*)|(03:00:00))
+﻿"Message-ID: <(\w|[.@])*>\nDate: (\w)*, [0-9]* (\w)* [0-9]* (((00|01|02):[0-9]*:[0-9]*)|(03:00:00))
 310
 emails.txt:43: "allen-p/_sent_mail/100.","Message-ID: <24216240.1075855687451.JavaMail.evans@thyme>
 emails.txt:168: "allen-p/_sent_mail/101.","Message-ID: <20641191.1075855687472.JavaMail.evans@thyme>
